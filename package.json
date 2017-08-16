@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "a dating app ",
+  "main": "server.js",
+  "scripts": {
+    "test": "n",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradbrandhorst/FriendFinder.git"
+  },
+  "author": "Brad Brandhorst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradbrandhorst/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/bradbrandhorst/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  }
+}
